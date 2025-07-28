@@ -1329,7 +1329,7 @@ a {
 }
 .cid-uQhCrDZsAp {
   display: flex;
-  background-image: url("../../../assets/images/hero-1-1534x1672.jpg");
+  background-image: url("../../../assets/images/pexels-shkrabaanthony-5244060-2000x1334.jpeg");
 }
 .cid-uQhCrDZsAp .mbr-overlay {
   background-color: #000000;
@@ -2612,6 +2612,11 @@ a {
 }
 .cid-uQiChG3yYq {
   display: flex;
+  background-image: url("../../../assets/images/pexels-cottonbro-4069293-2000x1088.jpeg");
+}
+.cid-uQiChG3yYq .mbr-overlay {
+  background-color: #1a1a1a;
+  opacity: 0;
 }
 @media (min-width: 768px) {
   .cid-uQiChG3yYq {
